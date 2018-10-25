@@ -16,6 +16,7 @@ public class HelloWorld {
         newMain();
         System.out.println(5 * 3);
         mainLagi();
+	mainLagi();
 
     }
 
