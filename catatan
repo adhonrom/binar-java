@@ -1,0 +1,31 @@
+nama
+umur tinggi badan
+
+input.newline
+
+Git worlflow :
+1. do progemming
+2. git status to see what files
+3. git diff[file] -- optional
+4. git commit -a -m [message] to commit
+
+git branch
+a branch represents as an independent line of development
+
+git checkout
+
+git -n commit behind message
+ 
+ 	git fetch
+
+	git pull
+
+git push origin branch
+git pull branch
+git status
+
+for add repository to gitlab / github 
+
+adding your ssh key to the ssh agent
+
+
